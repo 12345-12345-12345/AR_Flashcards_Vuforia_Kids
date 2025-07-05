@@ -396,15 +396,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2145042387906721331, guid: dfa4255745f01454baf36432fcedf562, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2145042387906721331, guid: dfa4255745f01454baf36432fcedf562, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2145042387906721331, guid: dfa4255745f01454baf36432fcedf562, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2145042387906721331, guid: dfa4255745f01454baf36432fcedf562, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1976,15 +1976,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1215548399988792455, guid: f773a81d154a94f44b3a771469e5bb60, type: 3}
       propertyPath: m_LocalScale.x
-      value: 200
+      value: 700
       objectReference: {fileID: 0}
     - target: {fileID: 1215548399988792455, guid: f773a81d154a94f44b3a771469e5bb60, type: 3}
       propertyPath: m_LocalScale.y
-      value: 200
+      value: 700
       objectReference: {fileID: 0}
     - target: {fileID: 1215548399988792455, guid: f773a81d154a94f44b3a771469e5bb60, type: 3}
       propertyPath: m_LocalScale.z
-      value: 200
+      value: 700
       objectReference: {fileID: 0}
     - target: {fileID: 1215548399988792455, guid: f773a81d154a94f44b3a771469e5bb60, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5863,15 +5863,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3325948899474556670, guid: 212cf3a7b3dae0144a6f4b5fe7893190, type: 3}
       propertyPath: m_LocalScale.x
-      value: 100
+      value: 350
       objectReference: {fileID: 0}
     - target: {fileID: 3325948899474556670, guid: 212cf3a7b3dae0144a6f4b5fe7893190, type: 3}
       propertyPath: m_LocalScale.y
-      value: 100
+      value: 350
       objectReference: {fileID: 0}
     - target: {fileID: 3325948899474556670, guid: 212cf3a7b3dae0144a6f4b5fe7893190, type: 3}
       propertyPath: m_LocalScale.z
-      value: 100
+      value: 350
       objectReference: {fileID: 0}
     - target: {fileID: 3325948899474556670, guid: 212cf3a7b3dae0144a6f4b5fe7893190, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8644,15 +8644,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2841846616865365352, guid: 6b0ceff7ebcabf64c827a49a7b92407d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 100
+      value: 350
       objectReference: {fileID: 0}
     - target: {fileID: 2841846616865365352, guid: 6b0ceff7ebcabf64c827a49a7b92407d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 100
+      value: 350
       objectReference: {fileID: 0}
     - target: {fileID: 2841846616865365352, guid: 6b0ceff7ebcabf64c827a49a7b92407d, type: 3}
       propertyPath: m_LocalScale.z
-      value: 100
+      value: 350
       objectReference: {fileID: 0}
     - target: {fileID: 2841846616865365352, guid: 6b0ceff7ebcabf64c827a49a7b92407d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12321,15 +12321,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8163213405014662159, guid: 5b19668cec314e748b60890d604e4266, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.7
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163213405014662159, guid: 5b19668cec314e748b60890d604e4266, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.7
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163213405014662159, guid: 5b19668cec314e748b60890d604e4266, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.7
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163213405014662159, guid: 5b19668cec314e748b60890d604e4266, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13881,9 +13881,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d359560d72421a4408d49d40d1fc1d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatSpeed: 1
-  floatHeight: 0.05
-  startPosition: {x: 0, y: 0, z: 0}
 --- !u!114 &1794401213
 MonoBehaviour:
   m_ObjectHideFlags: 0
