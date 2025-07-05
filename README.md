@@ -1,6 +1,6 @@
 # AR Flashcards for Kids - Alphabet Learning
  
-![AR Flashcards in Action](images/A_Ref.gif)
+![AR Flashcards in Action](IMAGES/A_Ref.gif)
 *A captivating visual of the AR application in use.*
 
 ## 🌟 Project Overview
@@ -52,20 +52,20 @@ For this hackathon project, to efficiently prototype the core interactive logic 
 
 ### Visual Demonstration (GIF)
 
-![AR Alphabet Demo](images/Model_ref_abcd.gif)
+![AR Alphabet Demo](IMAGES/Model_ref_abcd.gif)
 *A short visual demonstration of the AR application in action, showcasing physical flashcard detection and the overlay of an interactive 3D letter model. Please note that GIFs do not support sound.*
 
 ---
 
 ### Static Screenshots
 
-![AR Apple Model](images/A_Apple.png)
+![AR Apple Model](IMAGES/A_Apple.png)
 *The 3D apple model appearing in augmented reality on its corresponding flashcard.*
 
-![AR Bag Model](images/B_Ball.png)
+![AR Bag Model](IMAGES/B_Ball.png)
 *The 3D bag model displayed in the AR environment.*
 
-![AR Dog Model](IMAGES/A_Ref.gif)
+![AR Dog Model](IMAGES/D_Dog.png)
 *The 3D dog model interacting with its flashcard in augmented reality.*
 
 ---
@@ -84,12 +84,12 @@ To provide insight into the project's organization and asset management within t
 
 ### Unity Hierarchy View
 
-![Unity Hierarchy View](images/Hierarchy.gif)    
+![Unity Hierarchy View](IMAGES/Hierarchy.gif)    
 *A glimpse into the Unity Hierarchy window, showcasing the structured arrangement of GameObjects and Image Targets for each alphabet letter.*
 
 ### Unity Assets Folder View
 
-![Unity Assests View](images/Assets.gif)    
+![Unity Assests View](IMAGES/Assets.gif)    
 *An overview of the project's Assets folder, demonstrating the organization of 3D models, audio files, scripts, and other resources.*
 
 ## 🚀 How to Run the Project
