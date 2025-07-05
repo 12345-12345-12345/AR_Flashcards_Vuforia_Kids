@@ -1,6 +1,7 @@
 # AR Flashcards for Kids - Alphabet Learning
  
 ![AR Flashcards in Action](IMAGES/A_Ref.gif)
+
 *A captivating visual of the AR application in use.*
 
 ## 🌟 Project Overview
@@ -53,6 +54,7 @@ For this hackathon project, to efficiently prototype the core interactive logic 
 ### Visual Demonstration (GIF)
 
 ![AR Alphabet Demo](IMAGES/Model_ref_abcd.gif)
+
 *A short visual demonstration of the AR application in action, showcasing physical flashcard detection and the overlay of an interactive 3D letter model. Please note that GIFs do not support sound.*
 
 ---
@@ -60,12 +62,15 @@ For this hackathon project, to efficiently prototype the core interactive logic 
 ### Static Screenshots
 
 ![AR Apple Model](IMAGES/A_Apple.png)
+
 *The 3D apple model appearing in augmented reality on its corresponding flashcard.*
 
 ![AR Bag Model](IMAGES/B_Ball.png)
+
 *The 3D bag model displayed in the AR environment.*
 
 ![AR Dog Model](IMAGES/D_Dog.png)
+
 *The 3D dog model interacting with its flashcard in augmented reality.*
 
 ---
@@ -74,8 +79,14 @@ For this hackathon project, to efficiently prototype the core interactive logic 
 
 For a full demonstration including the interactive audio pronunciation of letters A, B, C, and D, please watch this short video:
 
-[Watch AR Flashcards Audio Demo on Google Drive](https://drive.google.com/file/d/1yeRYBVQGD-sePHtgScm0qFo8ZX5Oilbs/view?usp=sharing)
-(https://drive.google.com/file/d/1zep5O14ft3OssDtSlXdAMjtILPgGZGlS/view?usp=sharing)(https://drive.google.com/file/d/1hhlXK2sYTBVWneVLpeOoYvxT7WEMJ8D1/view?usp=sharing)
+[Watch AR Flashcards Audio Demo on Google Drive]
+
+(https://drive.google.com/file/d/1yeRYBVQGD-sePHtgScm0qFo8ZX5Oilbs/view?usp=sharing)
+
+(https://drive.google.com/file/d/1zep5O14ft3OssDtSlXdAMjtILPgGZGlS/view?usp=sharing)
+
+(https://drive.google.com/file/d/1hhlXK2sYTBVWneVLpeOoYvxT7WEMJ8D1/view?usp=sharing)
+
 *(Click the link above to view the video with sound.)*
 
 ## 📂 Project Structure & Editor View
@@ -84,12 +95,14 @@ To provide insight into the project's organization and asset management within t
 
 ### Unity Hierarchy View
 
-![Unity Hierarchy View](IMAGES/Hierarchy.gif)    
+![Unity Hierarchy View](IMAGES/Hierarchy.gif)   
+
 *A glimpse into the Unity Hierarchy window, showcasing the structured arrangement of GameObjects and Image Targets for each alphabet letter.*
 
 ### Unity Assets Folder View
 
 ![Unity Assests View](IMAGES/Assets.gif)    
+
 *An overview of the project's Assets folder, demonstrating the organization of 3D models, audio files, scripts, and other resources.*
 
 ## 🚀 How to Run the Project
