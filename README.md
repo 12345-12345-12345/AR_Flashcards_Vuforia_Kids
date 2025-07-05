@@ -62,10 +62,10 @@ For this hackathon project, to efficiently prototype the core interactive logic 
 ![AR Apple Model](images/A_Apple.png)
 *The 3D apple model appearing in augmented reality on its corresponding flashcard.*
 
-![AR Bag Model](images/B_Ball.png.png)
+![AR Bag Model](images/B_Ball.png)
 *The 3D bag model displayed in the AR environment.*
 
-![AR Dog Model](images/D_Dog.png.png)
+![AR Dog Model](images/D_Dog.png)
 *The 3D dog model interacting with its flashcard in augmented reality.*
 
 ---
