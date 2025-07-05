@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="h_hat1" size="1.000000 1.414619" />
+    <ImageTarget name="i_icecream2" size="1.000000 1.414619" />
+    <ImageTarget name="j_juice1" size="1.000000 1.414619" />
+    <ImageTarget name="l_lemon1" size="1.000000 1.414619" />
+    <ImageTarget name="n_nectar1" size="1.000000 1.414619" />
+    <ImageTarget name="p_pot1" size="1.000000 1.414619" />
+    <ImageTarget name="q_quill1" size="1.000000 1.414619" />
+    <ImageTarget name="e_egg11" size="1.000000 1.414619" />
+    <ImageTarget name="y_yolk" size="1.000000 1.414619" />
+    <ImageTarget name="t_tomato1" size="1.000000 1.414619" />
+    <ImageTarget name="u_ufo1" size="1.000000 1.414619" />
+    <ImageTarget name="o_orange61" size="1.000000 1.414619" />
+    <ImageTarget name="z_zebra1" size="1.000000 1.414619" />
+    <ImageTarget name="x_xmastree" size="1.000000 1.414619" />
+    <ImageTarget name="w_well1" size="1.000000 1.414619" />
+    <ImageTarget name="v_vegburger" size="1.000000 1.414619" />
+    <ImageTarget name="s_sunglass1" size="1.000000 1.414619" />
+    <ImageTarget name="r_rat1" size="1.000000 1.414619" />
+    <ImageTarget name="m_mirror1" size="1.000000 1.414619" />
+    <ImageTarget name="k_key" size="1.000000 1.414619" />
+    <ImageTarget name="g_gate" size="1.000000 1.414619" />
+    <ImageTarget name="f_fish1" size="1.000000 1.414619" />
+    <ImageTarget name="d_dog1" size="1.000000 1.414619" />
+    <ImageTarget name="c_cat1" size="1.000000 1.414619" />
+    <ImageTarget name="b_bag1" size="1.000000 1.414619" />
+    <ImageTarget name="a_apple" size="1.000000 1.414619" />
+  </Tracking>
+</QCARConfig>
